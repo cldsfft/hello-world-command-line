@@ -1,2 +1,2 @@
 # hello-world-command-line
-Yet another Hello World
+Yet another Hello World repo
